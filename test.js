@@ -1,2 +1,3 @@
 console.log("ready deploy");
-setInterval(function(){console.log("otra versiontryrtttt");},1*1000);
+let x = 0;
+setInterval(function(){x++;console.log("aaaa",x);},1*1000);
