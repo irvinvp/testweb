@@ -1,3 +1,3 @@
 console.log("ready deploy");
 let x = 0;
-setInterval(function(){x++;console.log("ccccc",x);},1*1000);
+setInterval(function(){x++;console.log("fffff",x);},1*1000);
