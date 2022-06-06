@@ -1,1 +1,1 @@
-![flujo de trabajo de ejemplo](https://github.com/irvinvp/testweb/actions/workflows/main.yml/badge.svg)![badge](https://user-images.githubusercontent.com/10320683/172094961-a38d4f94-71c1-45b4-a814-d9b4313aa812.svg)
+![flujo de trabajo de ejemplo](https://github.com/irvinvp/testweb/actions/workflows/main.yml/badge.svg)
