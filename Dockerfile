@@ -1,4 +1,2 @@
-FROM node:14-slim
-WORKDIR /usr/src/app
-COPY . .
-CMD [ "node", "test.js" ]
+FROM httpd:2.4
+COPY . /usr/local/apache2/htdocs/
