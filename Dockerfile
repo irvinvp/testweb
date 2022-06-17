@@ -1,5 +1,5 @@
 FROM httpd:2.4
-COPY . /usr/local/apache2/htdocs/
+VOLUME /home/admin/micrositios /usr/local/apache2/htdocs/
 LABEL traefik.http.routers.testweb.rule="Host(`testweb.sub.omnitracs.online`)"
 LABEL traefik.http.routers.testweb.tls.certresolver="myresolver"
 LABEL traefik.http.services.testweb.loadbalancer.server.port="80"
