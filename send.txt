@@ -1,0 +1,8 @@
+ web-push send-notification  \
+  --endpoint=https://fcm.googleapis.com/fcm/send/c7TMwZMCmB8:APA91bGZaZndJVf0pSN55QMuqU1E7Jvnrs2asxBWirzmr_SDAMbYCEKm0iHJc0lLJaIpV1e-ysn3AiZF_nRAGns44lWZnUpffTCxKhCDY7h8hdduQQuCM0dkJmIKMsE6QT3wvFZoCDBH \
+  --key=BCeLgivNa5YzUbwzGmevmRnocWota62_3UqDgIJbDiovFo_TUBQfwG5z2GOCaKX6cfClMxHHdfKfGsnfraC0CKY \
+  --auth=Zyz-aXdUDmEEIEeL3NYPPg \
+  --vapid-subject=mailto:example@qq.com \
+  --vapid-pubkey=BJO9_x6_fyPShW8QylagdMpbPTJKQx2NLUfmn2zTQynQeHhjkUY2bL5F4N13BSSgE83ZXBA6pQda7GmXyeRWZpU \
+  --vapid-pvtkey=NYp9FpLmZZgjkInm3Ipifi8kq_ozPPo5ra2BWEp6FrY \
+  --payload=Hello
